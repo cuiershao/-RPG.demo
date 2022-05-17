@@ -1,2 +1,3 @@
-# test_project
-My first github project
+# 人生RPG
+人生RPG经验计算
+探索读书、写代码、健身、社交、饮食、工作对人生短期的影响
